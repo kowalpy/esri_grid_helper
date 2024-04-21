@@ -38,6 +38,10 @@ Script cut_esri_grid_fragment.py is an example of cutting desired fragment of ES
 
 One way of further processing is importing file into Blender using [BlenderGIS plugin](https://github.com/domlysz/BlenderGIS). 
 
+### Example 3D models processed with project scripts
 
-
+![alt text](https://github.com/kowalpy/esri_grid_helper/blob/main/img/baltic.png "Baltic Sea topography")
+![alt text](https://github.com/kowalpy/esri_grid_helper/blob/main/img/mt_everest.png "Mount Everest")
+![alt text](https://github.com/kowalpy/esri_grid_helper/blob/main/img/sicilia.png "Sicilia")
+![alt text](https://github.com/kowalpy/esri_grid_helper/blob/main/img/tatry.png "Tatra mountains")
 
