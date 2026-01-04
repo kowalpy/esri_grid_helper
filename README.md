@@ -4,7 +4,7 @@ Scripts developed and tested on Ubuntu 22.04.3 LTS with Python 3.10.12.
 
 ## About 
 
-This project contains scripts which may be useful for manipulating ESRI grid files.
+This project contains scripts which may be useful for manipulating ESRI grid files. If you find this code useful you can always support me by buying a :coffee: https://buymeacoffee.com/kowalpy :smirk:
 
 ### Create ESRI grid from CSV
 
